@@ -1,6 +1,14 @@
+learn test
+
 tags:
   - javascript
 languages:
   - javascript
 resources:
   - 1
+  
+
+function shout(string)
+{
+return string
+}
